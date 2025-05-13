@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Sobre mí
 
-Soy estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **frontend** y a futuro desarrollo fullstack. Me encanta crear proyectos en los que puedo aprender y mejorar mi práctica de lo aprendido.
+Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **frontend** y a futuro desarrollo fullstack. Me encanta crear proyectos en los que puedo aprender y mejorar mi práctica de lo aprendido.
 
 ### 🚀 Tecnologías que estoy aprendiendo
 

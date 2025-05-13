@@ -33,5 +33,5 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 
 ---
 
-> *"Estoy en constante aprendizaje"*
+> *"“Sin requerimientos o diseño programar sólo es el arte de agregar errores a un archivo vacío” .- Louis Srygley"*
 

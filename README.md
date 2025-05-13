@@ -22,7 +22,7 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 
 ### 📚 Proyectos en curso
 
-- 💼 Sistema de Gestión de Tareas – *Node + React + MySQL*
+- 💼 Sistema de Gestión de Tareas Empresa Plásticos Sustentables– *Node + React + MySQL*
 
 
 ### 🌐 Conectemos

@@ -1,8 +1,9 @@
 <h1 align="center">Hola, soy Ailyn 👋</h1>
 
 <p align="center">
-  <img src="[https://imgur.com/a/3EF141W](https://i.imgur.com/uerGncF.png)"/>
+  <img src="https://i.imgur.com/uerGncF.png" alt="Banner de Ailyn" width="100%" />
 </p>
+
 
 ### 👩‍💻 Sobre mí
 

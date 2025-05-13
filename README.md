@@ -28,7 +28,7 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 ### 🌐 Conectemos
 
 - 💼 [LinkedIn](https://linkedin.com/in/ailyn-frontend)
-- 📧 [Correo](dev.ailyn.v@gmail.com)
+- 📧 Correo: dev.ailyn.v@gmail.com
 - 💻 [Portafolio (próximamente)]()
 
 ---

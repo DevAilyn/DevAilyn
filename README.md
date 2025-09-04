@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ailyn 👋</h1>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/bannerailyn-HCHFbbc#2752a8P" alt="Banner de Ailyn" width="100%" />
+  <a href="https://imgur.com/fg86UFf"><img src="https://i.imgur.com/fg86UFf.png" title="source: imgur.com" /></a>
 </p>
 
 

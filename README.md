@@ -26,7 +26,7 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 
 ### 🌐 Conectemos
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedInAilyn" width="20"/> [LinkedIn](https://linkedin.com/in/ailyn-frontend)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedInAilyn" width="20"/> [LinkedInAilyn](https://linkedin.com/in/ailyn-frontend)
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2709.svg" alt="Email" width="20"/> Correo: dev.ailyn.v@gmail.com
 - 💻 [Portafolio (próximamente)]()
 

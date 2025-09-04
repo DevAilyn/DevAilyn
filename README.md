@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ailyn 👋</h1>
 
 <p align="center">
-  <a href="https://imgur.com/fg86UFf"><img src="https://i.imgur.com/fg86UFf.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/2752a8P"><img src="https://i.imgur.com/2752a8P.png" title="source: imgur.com" /></a>
 </p>
 
 

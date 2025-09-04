@@ -23,8 +23,8 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 
 ### 📚 Proyectos en curso
 
-- <img src="https://cdn-icons-png.flaticon.com/512/2966/2966485.png" alt="YourHealth" width="20"/> **YourHealth** - Construida con el stack **MERN** (MongoDB, Express, React y Node.js) y estilizada con **TailwindCSS**.  
-
+- ❤️ **YourHealth** - Construida con el stack **MERN** (MongoDB, Express, React y Node.js) y estilizada con **TailwindCSS**.
+  
 ### 🌐 Conectemos
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [LinkedIn](https://linkedin.com/in/ailyn-frontend)

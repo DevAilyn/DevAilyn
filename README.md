@@ -27,6 +27,7 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 ### Proyectos en curso
 
 - ❤️ [**YourHealth**](https://github.com/DevAilyn/YourHealth) – Construida con el stack **MERN** (MongoDB, Express, React y Node.js) y estilizada con **TailwindCSS**.
+- 🧑🏻‍🍳 [**Yummix**](https://github.com/DevAilyn/Yummix) - Android Studio
 
   
 ### Conectemos

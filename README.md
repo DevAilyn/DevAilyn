@@ -20,15 +20,12 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 
 
 ### Proyectos en curso
 
 - ❤️ [**YourHealth**](https://github.com/DevAilyn/YourHealth) – Construida con el stack **MERN** (MongoDB, Express, React y Node.js) y estilizada con **TailwindCSS**.
-- 🧑🏻‍🍳 [**Yummix**](https://github.com/DevAilyn/Yummix) - Android Studio
-- 🐾 [**PetPawtica**](https://github.com/DevAilyn/PetPawtica) - Android Studio
 
   
 ### Conectemos

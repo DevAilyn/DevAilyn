@@ -22,11 +22,6 @@ Estudiante de Ingeniería de Software y me estoy enfocando en el desarrollo **fr
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
-
-### Proyectos en curso
-
-- ❤️ [**YourHealth**](https://github.com/DevAilyn/YourHealth) – Construida con el stack **MERN** (MongoDB, Express, React y Node.js) y estilizada con **TailwindCSS**.
-
   
 ### Conectemos
 
